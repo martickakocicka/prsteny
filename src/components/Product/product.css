@@ -1,0 +1,19 @@
+Product {
+  display: flex;
+}
+
+.produkt {
+  border: dashed;
+  display: flex;
+  justify-content: space-around;
+  margin: 2%;
+}
+
+.obrazek {
+  width: 25%;
+  border-radius: 50%;
+}
+
+button {
+  background-color: goldenrod;
+}
